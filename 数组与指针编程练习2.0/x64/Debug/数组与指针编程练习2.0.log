@@ -1,0 +1,20 @@
+﻿  编程练习.c
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(123,8): warning C4133: “函数”: 从“double [5]”到“int *”的类型不兼容
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(125,8): warning C4133: “函数”: 从“double [5]”到“int *”的类型不兼容
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(127,8): warning C4133: “函数”: 从“double [5]”到“int *”的类型不兼容
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(128,16): warning C4133: “函数”: 从“double [5]”到“int *”的类型不兼容
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(129,16): warning C4133: “函数”: 从“double [5]”到“int *”的类型不兼容
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(130,16): warning C4133: “函数”: 从“double [5]”到“int *”的类型不兼容
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(132,13): warning C4133: “函数”: 从“double [5]”到“int *”的类型不兼容
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(132,19): warning C4133: “函数”: 从“double [5]”到“int *”的类型不兼容
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(132,25): warning C4133: “函数”: 从“double [5]”到“int *”的类型不兼容
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(112,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(116,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(120,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(104,9): warning C4101: “suoyoupin”: 未引用的局部变量
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(137,22): warning C4028: 形参 1 与声明不同
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(148,20): warning C4028: 形参 1 与声明不同
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(148,35): warning C4028: 形参 2 与声明不同
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(148,50): warning C4028: 形参 3 与声明不同
+C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\数组与指针编程练习2.0\编程练习.c(168,19): warning C4028: 形参 1 与声明不同
+  数组与指针编程练习2.0.vcxproj -> C:\Users\35316\Desktop\.vs\数组与指针编程练习2.0\x64\Debug\数组与指针编程练习2.0.exe
